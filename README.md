@@ -6,3 +6,5 @@
 为了不让这个PR提交练习显得过于无聊，大家需要按照指定格式提交指定内容的PR，具体内容后续会在[wiki](https://github.com/brucebat/PullYourself/wiki)当中给出。
 
 有意思
+
+再试一下
